@@ -1,0 +1,39 @@
+{
+    "TRIAL" : [
+        { "heading": "How does the 30-day free trial work?",
+           "body"  : "Typetalk is completely free for new users for 30 days. At the end of your 30-day trial, you can continue using Typetalk by subscribing to one of our paid Typetalk plans or switching to a free plan."
+        } ,
+        { "heading": "Can I cancel anytime?",
+           "body"  : "Yes. You can cancel anytime during your trial period."
+        } ,
+        { "heading": "How do I upgrade before my trial ends?",
+           "body"  : "Click the number of remaining trial days or the 'Upgrade' button at the top of your Typetalk page. You will be directed to the Nulab Account page to set up your plan."
+        }
+    ] 
+    ,
+    "AFTER" : [
+        { "heading" : " What forms of payment do you accept?",
+          "body"  : "We accept all major credit cards."
+        } ,
+        { "heading" : " Can I pay annually?",
+          "body"  : "Yes! In addition to monthly subscriptions, Typetalk is also available as an annual subscription. Annual subscriptions offer a 2-month discount."
+        }
+    ] ,
+    "GENERAL" : [
+        { 
+            "heading" : "What is an organization?",
+            "body" : " Your organization allows you to manage members, teams, subscriptions, and billing information for all of Nulab’s apps, including Typetalk, in one place."
+        } ,
+        {
+            "heading" : "How do you protect my data?",
+            "body" : " Your data security is our priority. We are committed to providing a secure and reliable environment for our customers. We have various measures and policies in place to protect the data of all our users including a secure data center, periodic backups, and SSL encryption. Learn more about our security here."
+        
+        } ,
+        {
+            "heading" : "Can I add more than 500 users?",
+            "body" : " Yes! Please contact us here for a quote."
+        
+        }
+
+    ]
+}

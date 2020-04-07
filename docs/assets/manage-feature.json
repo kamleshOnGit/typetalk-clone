@@ -1,0 +1,48 @@
+ 
+[
+        {
+            "heading" : "Likes",
+            "para" : "ALikes keep team conversations interactive. Like a message to acknowledge a request, demonstrate appreciation, or indicate agreement."
+        } 
+        ,
+      {
+          "heading" : "Likes Activity",
+          "para" : "Track likes you’ve received and given with your Likes Activity log. Discover popular messages from your team."
+      } ,
+      {
+          "heading" : "Emoji",
+          "para" : "Add some character to your messages with a full library of emojis to choose from. Select from our six skin tones for a more personalized experience."
+      } ,
+      {
+          "heading" : "GIPHY support",
+          "para" : "Paste any GIPHY URL into a message, and your image will automatically expand and animate. Online conversations wouldn't be the same without GIFs."
+      } ,
+      {
+          "heading" : "Light/Dark theme",
+          "para" : "Rest your weary eyes with our available Dark Theme. Especially beloved by developers, our Dark Theme provides a black background for your app."
+      } ,
+      {
+          "heading" : "Open API/Webhook",
+          "para" : "Build your own integrations and bots with our open API and Webhooks. Create topics for aggregated information from other apps or extract info from Typetalk."
+      } ,
+      {
+          "heading" : "Nulab Account",
+          "para" : "Quickly log in to all three Nulab Apps—Cacoo, Backlog, and Typetalk—using a single email address and password."
+      } ,
+      {
+          "heading" : "Organization management",
+          "para" : "Administrators can manage members, teams, subscriptions, and billing information all in one place. Change account settings across all apps"
+      } ,
+      {
+          "heading" : "Teams",
+          "para" : "Organize members into Teams for easier onboarding and management. Add new members or remove old ones with a few clicks."
+      } ,
+      {
+          "heading" : "Login history",
+          "para" : "Track the apps you have accessed along with your login locations"
+      } ,
+      {
+          "heading" : "Edit plans and payment details",
+           "para" : "Only designated plan administrators can make changes to billing and plans. Make changes to any of your Nulab app plans."
+      }  
+]

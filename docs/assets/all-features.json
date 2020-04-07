@@ -1,0 +1,84 @@
+ 
+    [
+        {
+            "heading" : "Secure team access",
+            "para" : "Administrators can set and manage team access privileges. Our secure data center,periodic backups, and SSL encryption do the rest."
+        } 
+        ,
+      {
+          "heading" : "Topics",
+          "para" : "Conversations are organized into topics. Optional Topic Descriptions clarify each topic’s purpose and provide important info."
+      } ,
+      {
+          "heading" : "Pinned Topics",
+          "para" : "Keep your most important topics front and center. Pin them to the top, so they’re always in view."
+      } ,
+      {
+          "heading" : "Mentioning",
+          "para" : "Use the “@” symbol to notify a specific team member or all topic members. Mention @here to notify members currently online."
+      } ,
+      {
+          "heading" : "Direct message",
+          "para" : "Chat privately with Direct messages (DMs). All the same features, but without the audience."
+      } ,
+      {
+          "heading" : "Notification center",
+          "para" : "Track messages that mention you. Customize your notifications for desktop, in-app, push, and badges."
+      } ,
+      {
+          "heading" : "Do not disturb",
+          "para" : "Set your DND for one-off and recurring times. Unplug from notifications when you’re in important meetings or away on vacation."
+      } ,
+      {
+          "heading" : "Guests",
+          "para" : "Invite users from outside your organization as Guests. Add them to select topics only to keep them in-the-loop and your data secure."
+      } ,
+      {
+          "heading" : "Sync",
+          "para" : "Conversations sync across desktop, web, and mobile. Take it anywhere to stay up-to-date on important conversations."
+      } ,
+      {
+          "heading" : "Formatting syntax",
+          "para" : "Insert source code, quotes, emojis, and files to your messages. Customize what you want to say and how you want to say it."
+      } ,
+      {
+          "heading" : "Two-step authentication",
+           "para" : "Ensure your entire team is secure with two-step login authentication. Keep your internal data safely where it belongs."
+      } ,
+      {
+          "heading" : "Access log (Add-on)",
+           "para" : "Request this add-on for a monthly rundown of your team’s access information. Meet compliance requirements for the highest security."
+      } ,
+      {
+          "heading" : "Topic groups",
+           "para" : "Keep topics grouped by subject, team, product, or whatever helps you find what you need quickly."
+      } ,
+      {
+          "heading" : "Threading",
+           "para" : "Reply to individual messages to link the conversation in a thread. Eliminate interruptions and keep replies in context."
+      } ,
+      {
+          "heading" : "#Talks",
+           "para" : "Use the “#” symbol to tag and group selected messages into Talks. Easily retrieve or add to them later on using the same tag."
+      } ,
+      {
+          "heading" : "Drag n’ Drop file sharing",
+           "para" : "Drag and drop files (PNG/JPEG/GIF/DOC/PDF) into your message to include files and images. Easily retrieve the info later with a simple search."
+      } ,
+      {
+          "heading" : "Third-Party cards",
+           "para" : "Send YouTube and Twitter links within messages, and they'll show up as cards. Watch videos and interact with Tweets without leaving your Typetalk Topic."
+      } ,
+      {
+          "heading" : "Information archive",
+           "para" : "Your chat information is never lost. All messages, files, notifications, etc. are indexed and easily searchable. Topics can be archived and unarchived."
+      } ,
+      {
+          "heading" : "Search",
+           "para" : "Locate messages by keywords, sender, date, and more. Retrieve important feedback, files, and information in seconds."
+      } ,
+      {
+          "heading" : "Integrations",
+           "para" : "In addition to Backlog and Cacoo, use Typetalk with your other productivity tools."
+      }       
+]
